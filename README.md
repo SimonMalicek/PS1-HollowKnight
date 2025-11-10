@@ -9,6 +9,8 @@ Mouse - Look
 Spacebar - Jump
 Left Mouse Click - Attack
 
+0. Executable Build
+I've added the Windows executable as a zip file into the root folder.
 
 1. Project Objective & Scope
 This project is a functional remake of the 2013 game-jam prototype "Hungry Knight," which served as the mechanical proof-of-concept for the indie title "Hollow Knight."
