@@ -109,6 +109,11 @@ As a solo developer, building production-ready assets is a major bottleneck. The
 
 3D Models: All 3D models were sourced from Sketchfab. Assets were imported, and simple rough materials were created to fit the low-fi aesthetic.
 
+Credit:
+Hollow Knight - jacc_art_ https://sketchfab.com/3d-models/hollow-knight-cell-shading-30b57e9bcc5c47df9649826349dd95d4
+Shroom Guy - wersaus33 https://sketchfab.com/3d-models/shrumal-ogre-hollow-knight-8cdb18ec9ebf4a01b47988b02791d8d8
+Environment - Dasha Klyusova https://sketchfab.com/AnoFail/models
+
 Audio: Sound effects and music were sourced from the "Hollow Knight" game.
 
 Final Thoughts:
