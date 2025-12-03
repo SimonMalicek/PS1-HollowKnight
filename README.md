@@ -3,7 +3,9 @@
 
 #### Description:
 
-#### Requirements: Unreal Engine 5.4  
+#### Requirements: 
+Unreal Engine 5.4  
+Windows for the executable build
 
 Game Controls:
 WASD - Movements
