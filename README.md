@@ -1,5 +1,5 @@
 # PS1-HollowKnight
-#### Video Demo: https://youtu.be/QnSbbu74DVg
+#### Video Demo: https://www.youtube.com/watch?v=KLfK1UyGZUw
 
 #### Description:
 
